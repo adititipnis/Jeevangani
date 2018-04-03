@@ -1,0 +1,322 @@
+{
+  "resources":[{
+   "src": "images/slider/page_1.jpg"
+  }, {
+   "src": "images/slider/page_2.jpg"
+  }, {
+   "src": "images/slider/page_3.jpg"
+  }, {
+   "src": "images/slider/page_4.jpg"
+  }, {
+   "src": "images/slider/page_5.jpg"
+  }, {
+   "src": "images/slider/page_6.jpg"
+  }, {
+   "src": "images/slider/page_7.jpg"
+  }, {
+   "src": "images/slider/page_8.jpg"
+  }, {
+   "src": "images/slider/page_9.jpg"
+  }, {
+   "src": "images/slider/page_10.jpg"
+  }, {
+   "src": "images/slider/page_11.jpg"
+  }, {
+   "src": "images/slider/page_12.jpg"
+  }
+],
+
+"eventslider":[
+  {
+  "id":1,
+  "src":"images/slider/logo_1.png"
+  },
+  {
+  "id":2,
+  "src":"images/slider/logo_2.png"
+  },
+  {
+  "id":3,
+  "src":"images/slider/logo_3.png"
+  },
+  {
+  "id":4,
+  "src":"images/slider/logo_4.png"
+  },
+  {
+  "id":5,
+  "src":"images/slider/logo_5.png"
+  },
+  {
+  "id":6,
+  "src":"images/slider/logo_6.png"
+  },
+  {
+  "id":7,
+  "src":"images/slider/logo_7.png"
+  },
+  {
+  "id":8,
+  "src":"images/slider/logo_8.png"
+  },
+  {
+  "id":9,
+  "src":"images/slider/logo_9.png"
+  },
+  {
+  "id":10,
+  "src":"images/slider/logo_10.png"
+  },
+  {
+  "id":11,
+  "src":"images/slider/logo_11.png"
+  },
+  {
+  "id":12,
+  "src":"images/slider/logo_12.png"
+  }
+  
+
+],
+
+"events": [
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }],
+  [{
+     "src": "images/slider/page_1.jpg",
+     "type": "image"
+    }, {
+     "src": "images/slider/page_2.jpg",
+     "type": "image"
+    }]
+],
+
+"eventvideoportfolio" : [
+  [{
+     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+     "type": "iframe"
+    }, {
+     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+     "type": "iframe"
+  }],
+  [{
+     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+     "type": "iframe"
+    }, {
+     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+     "type": "iframe"
+  }],
+  [{
+     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+     "type": "iframe"
+    }, {
+     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+     "type": "iframe"
+  }]
+],
+
+"eventportfolio": [
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }],
+    [{
+       "src": "images/slider/page_1.jpg",
+       "type": "image"
+      }, {
+       "src": "images/slider/page_2.jpg",
+       "type": "image"
+      }]
+  ]
+
+}

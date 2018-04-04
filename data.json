@@ -1,322 +1,1577 @@
 {
-  "resources":[{
-   "src": "images/slider/page_1.jpg"
-  }, {
-   "src": "images/slider/page_2.jpg"
-  }, {
-   "src": "images/slider/page_3.jpg"
-  }, {
-   "src": "images/slider/page_4.jpg"
-  }, {
-   "src": "images/slider/page_5.jpg"
-  }, {
-   "src": "images/slider/page_6.jpg"
-  }, {
-   "src": "images/slider/page_7.jpg"
-  }, {
-   "src": "images/slider/page_8.jpg"
-  }, {
-   "src": "images/slider/page_9.jpg"
-  }, {
-   "src": "images/slider/page_10.jpg"
-  }, {
-   "src": "images/slider/page_11.jpg"
-  }, {
-   "src": "images/slider/page_12.jpg"
-  }
-],
+  "resources": [
+    {
+      "src": "images/slider/page_1.jpg"
+    },
+    {
+      "src": "images/slider/page_2.jpg"
+    },
+    {
+      "src": "images/slider/page_3.jpg"
+    },
+    {
+      "src": "images/slider/page_4.jpg"
+    },
+    {
+      "src": "images/slider/page_5.jpg"
+    },
+    {
+      "src": "images/slider/page_6.jpg"
+    },
+    {
+      "src": "images/slider/page_7.jpg"
+    },
+    {
+      "src": "images/slider/page_8.jpg"
+    },
+    {
+      "src": "images/slider/page_9.jpg"
+    },
+    {
+      "src": "images/slider/page_10.jpg"
+    },
+    {
+      "src": "images/slider/page_11.jpg"
+    },
+    {
+      "src": "images/slider/page_12.jpg"
+    }
+  ],
 
-"eventslider":[
-  {
-  "id":1,
-  "src":"images/slider/logo_1.png"
-  },
-  {
-  "id":2,
-  "src":"images/slider/logo_2.png"
-  },
-  {
-  "id":3,
-  "src":"images/slider/logo_3.png"
-  },
-  {
-  "id":4,
-  "src":"images/slider/logo_4.png"
-  },
-  {
-  "id":5,
-  "src":"images/slider/logo_5.png"
-  },
-  {
-  "id":6,
-  "src":"images/slider/logo_6.png"
-  },
-  {
-  "id":7,
-  "src":"images/slider/logo_7.png"
-  },
-  {
-  "id":8,
-  "src":"images/slider/logo_8.png"
-  },
-  {
-  "id":9,
-  "src":"images/slider/logo_9.png"
-  },
-  {
-  "id":10,
-  "src":"images/slider/logo_10.png"
-  },
-  {
-  "id":11,
-  "src":"images/slider/logo_11.png"
-  },
-  {
-  "id":12,
-  "src":"images/slider/logo_12.png"
-  }
-  
+  "eventslider": [
+    {
+      "id": 1,
+      "src": "images/slider/YOG_1599.JPG"
+    },
+    {
+      "id": 2,
+      "src": "images/slider/logo_1.png"
+    },
+    {
+      "id": 3,
+      "src": "images/slider/logo_2.png"
+    },
+    {
+      "id": 4,
+      "src": "images/slider/logo_1.png"
+    }
+  ],
 
-],
+  "events": [
+    [
+      {
+        "src": "images/Pictures/shreya/YOG_1164.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1199.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1215.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1231.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1249.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1253.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1272.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1282.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1285.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1289.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1290.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1295.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1359.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1365.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1368.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1380.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1394.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1396.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1407.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1410.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1448.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1470.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1471.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1569.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1571.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1592.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1593.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1599.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1609.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1620.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1652.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1678.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1681.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1684.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1748.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1750.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1757.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1767.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1774.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1781.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1790.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_2032.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_2037.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0001.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0002.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0023.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0049.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0055.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0141.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0161.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0210.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0254.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0284.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0292.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0352.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0544.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0547.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0551.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0569.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0589.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0609.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0673.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0712.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0729.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0743.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0765.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0767.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0771.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0818.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0858.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0860.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0867.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0928.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0932.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0934.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0944.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0963.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0994.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1048.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1076.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1082.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1099.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1108.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1114.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1117.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1134.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1154.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1162.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1164.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1177.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/Pictures/Diwali Pahat/07.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/11.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/16.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/20.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/22.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/23.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/26.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/27.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/28.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/30.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/32.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/35.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/36.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/40.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/42.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/43.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/44.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/45.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/46.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/48.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/51.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/52.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/53.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/55.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/59.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/69.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/70.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/74.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/76.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/83.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0001.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0013.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0016.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0021.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0022.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0024.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0039.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0040.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0054.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0078.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0091.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0350.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0368.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0374.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0377.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0397.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0430.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0442.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0446.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0449.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0450.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0537.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0650.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0652.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0653.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0658.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0663.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0699.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0700.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0845.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0850.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0910.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0915.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0920.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/YOG_1599.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/YOG_1599.JPG",
+        "type": "image"
+      }
+    ]
+  ],
 
-"events": [
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }],
-  [{
-     "src": "images/slider/page_1.jpg",
-     "type": "image"
-    }, {
-     "src": "images/slider/page_2.jpg",
-     "type": "image"
-    }]
-],
+  "eventvideoportfolio": [
+    [
+      {
+        "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+        "type": "iframe"
+      },
+      {
+        "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+        "type": "iframe"
+      }
+    ],
+    [
+      {
+        "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+        "type": "iframe"
+      },
+      {
+        "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+        "type": "iframe"
+      }
+    ],
+    [
+      {
+        "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+        "type": "iframe"
+      },
+      {
+        "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
+        "type": "iframe"
+      }
+    ]
+  ],
 
-"eventvideoportfolio" : [
-  [{
-     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
-     "type": "iframe"
-    }, {
-     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
-     "type": "iframe"
-  }],
-  [{
-     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
-     "type": "iframe"
-    }, {
-     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
-     "type": "iframe"
-  }],
-  [{
-     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
-     "type": "iframe"
-    }, {
-     "src": "https://www.youtube.com/watch?v=uz8NDWopZyU",
-     "type": "iframe"
-  }]
-],
-
-"eventportfolio": [
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }],
-    [{
-       "src": "images/slider/page_1.jpg",
-       "type": "image"
-      }, {
-       "src": "images/slider/page_2.jpg",
-       "type": "image"
-      }]
+  "eventportfolio": [
+    [
+      {
+        "src": "images/Pictures/shreya/YOG_1164.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1199.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1215.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1231.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1249.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1253.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1272.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1282.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1285.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1289.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1290.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1295.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1359.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1365.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1368.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1380.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1394.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1396.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1407.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1410.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1448.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1470.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1471.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1569.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1571.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1592.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1593.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1599.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1609.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1620.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1652.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1678.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1681.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1684.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1748.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1750.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1757.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1767.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1774.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1781.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_1790.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_2032.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/shreya/YOG_2037.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0001.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0002.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0023.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0049.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0055.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0141.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0161.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0210.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0254.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0284.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0292.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0352.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0544.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0547.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0551.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0569.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0589.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0609.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0673.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0712.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0729.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0743.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0765.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0767.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0771.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0818.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0858.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0860.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0867.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0928.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0932.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0934.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0944.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0963.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_0994.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1048.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1076.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1082.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1099.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1108.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1114.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1117.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1134.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1154.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1162.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1164.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/2 - Murtimant Asmita/YOG_1177.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/Pictures/Diwali Pahat/07.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/11.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/16.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/20.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/22.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/23.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/26.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/27.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/28.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/30.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/32.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/35.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/36.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/40.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/42.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/43.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/44.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/45.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/46.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/48.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/51.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/52.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/53.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/55.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/59.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/69.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/70.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/74.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/76.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Diwali Pahat/83.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0001.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0013.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0016.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0021.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0022.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0024.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0039.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0040.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0054.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0078.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0091.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0350.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0368.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0374.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0377.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0397.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0430.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0442.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0446.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0449.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0450.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0537.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0650.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0652.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0653.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0658.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0663.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0699.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0700.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0845.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0850.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0910.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0915.JPG",
+        "type": "image"
+      },
+      {
+        "src": "images/Pictures/Sachin Tendulkar/YOG_0920.JPG",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ],
+    [
+      {
+        "src": "images/slider/page_1.jpg",
+        "type": "image"
+      },
+      {
+        "src": "images/slider/page_2.jpg",
+        "type": "image"
+      }
+    ]
   ]
 
 }
